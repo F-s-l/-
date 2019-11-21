@@ -3,11 +3,9 @@ Git is free software.
 Git has a mutable index called stage.
 git tarcks changes.
 Creating a new branch is quick and simple.
-<<<<<<< HEAD
 add me
 Creating a new branch is quich AND simple. 
 enhao
-=======
 Creating a new branch is quick AND simple.
 qwer
->>>>>>> 191b67b... fix bug 101
+en nihao 
